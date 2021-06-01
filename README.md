@@ -1,3 +1,3 @@
 # Profiles REST API
 
-profile REST API codes
+Profiles REST API code
